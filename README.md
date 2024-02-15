@@ -13,9 +13,9 @@
 
 
 ## Current Projects
-1. Web Pokedex : www.github.com/AstroAspie/web-dex
+1. Star Wars fan app
 2. New Portfolio Web App
-3. AR Colour Palette
+3. Tea & Coffee Droid (IoT)
 
 <!--
 **AstroAspie/AstroAspie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
