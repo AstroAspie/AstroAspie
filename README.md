@@ -14,8 +14,8 @@
 
 ## Current Projects
 1. Star Wars fan app
-2. New Portfolio Web App
-3. Tea & Coffee Droid (IoT)
+2. Train Eta Calculator API
+3. Unity RTS
 
 <!--
 **AstroAspie/AstroAspie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
