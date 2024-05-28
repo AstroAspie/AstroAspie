@@ -13,9 +13,9 @@
 
 
 ## Current Projects
-1. Star Wars fan app
-2. Train Eta Calculator API
-3. Unity RTS
+1. Smart Shoppper
+3. Train Eta Calculator API
+4. Unity RTS
 
 <!--
 **AstroAspie/AstroAspie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
