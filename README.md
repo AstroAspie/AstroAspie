@@ -6,6 +6,9 @@
 
 ## Currently Employed @ ENCO Group ltd as a Full-Stack Engineer
 
+### Checkout my Current Portfolio Project
+https://astroaspie.github.io/MyPortfolio
+
 ## Preferred Tech Stacks
 * ASP.Net, Vue/React, Postgres
 * FastAPI/Django, Vue/React, Postgres
