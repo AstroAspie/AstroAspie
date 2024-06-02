@@ -3,8 +3,7 @@
 ### Full-Stack Engineer
 ### Cyber Security Researcher
 ### Tech Looney Toon
-
-## Currently Employed @ ENCO Group ltd as a Full-Stack Engineer
+#### Currently Employed @ ENCO Group ltd as a Full-Stack Engineer
 
 ### Checkout My Web Portfolio
 https://astroaspie.github.io/MyPortfolio
