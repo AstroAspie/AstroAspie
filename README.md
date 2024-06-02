@@ -6,7 +6,7 @@
 
 ## Currently Employed @ ENCO Group ltd as a Full-Stack Engineer
 
-### Checkout my Current Portfolio Project
+### Checkout My Web Portfolio
 https://astroaspie.github.io/MyPortfolio
 
 ## Preferred Tech Stacks
