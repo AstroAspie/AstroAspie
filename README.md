@@ -1,7 +1,5 @@
 ## Hi there 👋 | Portfolio: https://astroaspie.github.io/MyPortfolio
 
-## Currently looking for work (freelance or corporate)
-
 # Current Employment: Full-Time Freelance | Open to Work
 
 # Skills & Experience
