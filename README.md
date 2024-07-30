@@ -1,25 +1,28 @@
-## Hi there 👋
+## Hi there 👋 | Portfolio: https://astroaspie.github.io/MyPortfolio
 
 ## Currently looking for work (freelance or corporate)
 
-### Full-Stack Engineer
-### Cyber Security Researcher
-### Tech Looney Toon
-#### Currently Full-Time Freelancer
+# Current Employment: Full-Time Freelance | Open to Work
 
-### Checkout My Web Portfolio
-https://astroaspie.github.io/MyPortfolio
-
-## Preferred Tech Stacks
-* ASP.Net, Vue/React, Postgres
-* FastAPI/Django, Vue/React, Postgres
-* MySql/Postgres, Vue/React, Node, Express
-* ASP.Net, Blazor, Postgres / MySQL
+# Skills & Experience
+  - Full-Stack Web Development
+  - Cloud Hosting & Automation
+  - CI / CD Pipelines
+  - Penetration Testing
+  - Network Engineering
 
 ## Current Projects
 1. Smart Shoppper App
 2. Watch Party Streaming App
 3. Text To Speech API (currently aimed for use in online DnD campaigns)
+
+   
+## Preferred Tech Stacks
+* ASP.Net, Vue/React, Postgres
+* FastAPI/Django, Vue/React, Postgres
+* MySql/Postgres, Vue/React, Node, Express (MERN) / (MEVN)
+* ASP.Net, Blazor, Postgres / MySQL
+
 
 ## Looking to learn more about
 1. Open Source Engagement & Contribution
