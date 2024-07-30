@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+## Currently looking for work (freelance or corporate)
+
 ### Full-Stack Engineer
 ### Cyber Security Researcher
 ### Tech Looney Toon
-#### Currently Employed @ ENCO Group ltd as a Full-Stack Engineer
+#### Currently Full-Time Freelancer
 
 ### Checkout My Web Portfolio
 https://astroaspie.github.io/MyPortfolio
@@ -12,11 +14,12 @@ https://astroaspie.github.io/MyPortfolio
 * ASP.Net, Vue/React, Postgres
 * FastAPI/Django, Vue/React, Postgres
 * MySql/Postgres, Vue/React, Node, Express
+* ASP.Net, Blazor, Postgres / MySQL
 
 ## Current Projects
-1. Smart Shoppper
-2. Train Eta Calculator API
-3. Arcade Games Web App
+1. Smart Shoppper App
+2. Watch Party Streaming App
+3. Text To Speech API (currently aimed for use in online DnD campaigns)
 
 ## Looking to learn more about
 1. Open Source Engagement & Contribution
