@@ -6,8 +6,8 @@
   - Full-Stack Web Development
   - Cloud Hosting & Automation
   - CI / CD Pipelines
-  - Penetration Testing
-  - Network Engineering
+  - Penetration Testing (CERT: CompTIA Pentest +)
+  - Network Engineering (CERT: CompTIA Network +)
 
 ## Current Projects
 1. Smart Shoppper App
