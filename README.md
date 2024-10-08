@@ -29,8 +29,8 @@
 3. AI/ML
 
 ## Contact Information
-- Email: [your-email@example.com](mailto:alex.tekheartproductions@gmail.com)
-- LinkedIn: [](https://www.linkedin.com/in/alex-astro-smith)
+- Email: [alex.tekheartproductions@gmail.com](mailto:alex.tekheartproductions@gmail.com)
+- LinkedIn: [To My LinkedIn Profile](https://www.linkedin.com/in/alex-astro-smith)
 - GitHub: [AstroAspie](https://github.com/AstroAspie)
 
 ## Badges
