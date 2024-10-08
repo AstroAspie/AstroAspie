@@ -30,7 +30,7 @@
 
 ## Contact Information
 - Email: [alex.tekheartproductions@gmail.com](mailto:alex.tekheartproductions@gmail.com)
-- LinkedIn: [To My LinkedIn Profile](https://www.linkedin.com/in/alex-astro-smith)
+- LinkedIn: [https://www.linkedin.com/in/alex-astro-smith](https://www.linkedin.com/in/alex-astro-smith)
 - GitHub: [AstroAspie](https://github.com/AstroAspie)
 
 ## Badges
