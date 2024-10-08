@@ -30,7 +30,7 @@
 
 ## Contact Information
 - Email: [your-email@example.com](mailto:alex.tekheartproductions@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alex-astro-smith)
+- LinkedIn: [](https://www.linkedin.com/in/alex-astro-smith)
 - GitHub: [AstroAspie](https://github.com/AstroAspie)
 
 ## Badges
