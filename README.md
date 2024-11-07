@@ -9,6 +9,10 @@
   - Penetration Testing (CERT: CompTIA Pentest +)
   - Network Engineering (CERT: CompTIA Network +)
 
+# Freelance Clients
+  - WheatBelt Way
+  - E2E Services
+
 ## Current Projects
 1. Smart Shopper App
    - A mobile application aimed at enhancing the shopping experience through smart recommendations and integrations.
