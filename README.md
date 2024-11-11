@@ -35,7 +35,6 @@
 ## Contact Information
 - Email: [alex.tekheartproductions@gmail.com](mailto:alex.tekheartproductions@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/alex-astro-smith](https://www.linkedin.com/in/alex-astro-smith)
-- GitHub: [AstroAspie](https://github.com/AstroAspie)
 
 ## Badges
 ![Build Status](https://img.shields.io/github/workflow/status/AstroAspie/AstroAspie/CI)
