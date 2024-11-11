@@ -10,8 +10,8 @@
   - Network Engineering (CERT: CompTIA Network +)
 
 # Freelance Clients
-  - WheatBelt Way
-  - E2E Services
+  - WheatBelt Way :: https://wheatbeltway.com.au/
+  - E2E Services :: https://www.e2eservices.com.au/
 
 ## Current Projects
 1. Smart Shopper App
