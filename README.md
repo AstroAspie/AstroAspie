@@ -9,7 +9,7 @@
   - Penetration Testing (CERT: CompTIA Pentest +)
   - Network Engineering (CERT: CompTIA Network +)
 
-# Freelance Clients
+# Noteable Freelance Clients
   - WheatBelt Way :: https://wheatbeltway.com.au/
   - E2E Services :: https://www.e2eservices.com.au/
 
