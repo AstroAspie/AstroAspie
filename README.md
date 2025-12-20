@@ -9,9 +9,13 @@
   - Penetration Testing (CERT: CompTIA Pentest +)
   - Network Engineering (CERT: CompTIA Network +)
 
+# Career Highlights
+  - Sole Engineer for Cyndr.ai :: Designed, Developed, Deployed AI Based MVP for Government clients and shareholders.
+
 # Noteable Freelance Clients
   - WheatBelt Way :: https://wheatbeltway.com.au/
   - E2E Services :: https://www.e2eservices.com.au/
+  - Netflix :: https://netflix.com/
 
 ## Current Projects
 1. Smart Shopper App
@@ -22,15 +26,14 @@
    - An API service designed to convert text to speech, currently aimed for use in online DnD campaigns.
 
 ## Preferred Tech Stacks
-* ASP.Net, Vue/React, Postgres
-* FastAPI/Django, Vue/React, Postgres
+* Python/Go, Vue/React
 * MySql/Postgres, Vue/React, Node, Express (MERN) / (MEVN)
 * ASP.Net, Blazor, Postgres / MySQL
+* Comfortable with most database tools and configurations (SQL [Postgres], NoSQL [MongoDB, Mongo Atlas], Vector databases [ChromaDB, PgVector], GraphDB [Neo4j])
 
 ## Looking to learn more about
 1. Open Source Engagement & Contribution
-2. The finer architecture points of Dev-Ops
-3. AI/ML
+2. AI/ML
 
 ## Contact Information
 - Email: [alex.tekheartproductions@gmail.com](mailto:alex.tekheartproductions@gmail.com)
