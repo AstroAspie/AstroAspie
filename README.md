@@ -19,7 +19,7 @@
 |----------|---------|-----------|----------------|
 | Vue.js, React | Python · FastAPI | PostgreSQL · MySQL | Cloud compute & config |
 | Blazor · MAUI | .NET · ASP.Net | MongoDB · Atlas | CI / CD pipelines |
-| | Node · Express | ChromaDB · PgVector · Neo4j | |
+| | | ChromaDB · PgVector · Neo4j | |
 
 ---
 
