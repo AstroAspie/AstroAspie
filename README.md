@@ -3,11 +3,11 @@
 # Current Employment: Full-Time Freelance | Open to Work
 
 # Skills & Experience
-  - Full-Stack Web Development
-  - Cloud Hosting & Automation
+  - Vue Frontend Development
+  - Python (FastAPI) backend development
+  - .NET (Blazor frontend, .NET backend, MAUI)
+  - Cloud Computing and Configurations
   - CI / CD Pipelines
-  - Penetration Testing (CERT: CompTIA Pentest +)
-  - Network Engineering (CERT: CompTIA Network +)
 
 # Career Highlights
   - Sole Engineer for Cyndr.ai :: Designed, Developed, Deployed AI Based MVP for Government clients and shareholders.
@@ -17,23 +17,17 @@
   - E2E Services :: https://www.e2eservices.com.au/
   - Netflix :: https://netflix.com/
 
-## Current Projects
-1. Smart Shopper App
-   - A mobile application aimed at enhancing the shopping experience through smart recommendations and integrations.
-2. Watch Party Streaming App
-   - A web application that allows users to host and join virtual watch parties with synchronized video playback.
-3. Text To Speech API
-   - An API service designed to convert text to speech, currently aimed for use in online DnD campaigns.
-
 ## Preferred Tech Stacks
-* Python/Go, Vue/React
+* Python/.NET, Vue/React
 * MySql/Postgres, Vue/React, Node, Express (MERN) / (MEVN)
 * ASP.Net, Blazor, Postgres / MySQL
 * Comfortable with most database tools and configurations (SQL [Postgres], NoSQL [MongoDB, Mongo Atlas], Vector databases [ChromaDB, PgVector], GraphDB [Neo4j])
 
 ## Looking to learn more about
-1. Open Source Engagement & Contribution
-2. AI/ML
+  - Open Source Engagement & Contribution
+  - AI/ML
+  - Kotlin + Jetpack Compose for Android Development
+  - MCP and AI local hosting
 
 ## Contact Information
 - Email: [alex.tekheartproductions@gmail.com](mailto:alex.tekheartproductions@gmail.com)
