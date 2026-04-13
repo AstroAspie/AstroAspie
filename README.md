@@ -25,9 +25,8 @@
 
 ## ⭐ Career Highlight
 
-> **Cyndr.ai — Sole Engineer**
+> **Cyndr.ai — Technical Lead**
 > Designed, developed, and deployed an AI-based MVP for government clients and shareholders — end to end, solo.
-
 ---
 
 ## 🤝 Notable Clients
