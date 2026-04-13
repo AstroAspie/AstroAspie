@@ -6,7 +6,6 @@
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
 [![Freelance](https://img.shields.io/badge/Mode-Full--Time%20Freelance-blue?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20→-lightgrey?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
-[![Build](https://img.shields.io/github/workflow/status/AstroAspie/AstroAspie/CI?style=flat-square)](https://github.com/AstroAspie/AstroAspie)
 [![License](https://img.shields.io/github/license/AstroAspie/AstroAspie?style=flat-square)](LICENSE)
 
 </div>
