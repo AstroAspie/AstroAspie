@@ -1,9 +1,9 @@
 <div align="center">
 
 # Alex Smith · Full-Stack Engineer
-**Building things that ship. Vue · Python · .NET · Cloud.**
+**Building things that ship. React · Angular · Golang · Python · .NET · Cloud.**
 
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
+[![IFS (Contract)](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
 [![Freelance](https://img.shields.io/badge/Mode-Full--Time%20Freelance-blue?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20→-lightgrey?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
 [![License](https://img.shields.io/github/license/AstroAspie/AstroAspie?style=flat-square)](LICENSE)
