@@ -26,6 +26,8 @@
 
 > **Cyndr.ai — Technical Lead**
 > Designed, developed, and deployed an AI-based MVP for government clients and shareholders — end to end, solo.
+> **Train ETA Mathematical Model**
+> Designed and developed a mathematical model for train ETA calculations; initially in Python and later migrated to .NET.
 ---
 
 ## 🤝 Notable Clients
