@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alex Smith · Full-Stack Engineer
+# Alex Smith · Principal Software Engineer
 **Building things that ship. React · Angular · Golang · Python · .NET · Cloud.**
 
 [![IFS (Contract)](https://img.shields.io/badge/Status-IFS%20Contract%20Principal%20Engineer-purple?style=flat-square)](https://ifs.ai)
