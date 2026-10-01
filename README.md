@@ -3,10 +3,9 @@
 # Alex Smith · Full-Stack Engineer
 **Building things that ship. React · Angular · Golang · Python · .NET · Cloud.**
 
-[![IFS (Contract)](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)](https://ifs.ai)
-[![Consultant](https://img.shields.io/badge/Mode-Full--Time%20Freelance-blue?style=flat-square)](https://tekheart-consulting.net)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20→-lightgrey?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
-[![License](https://img.shields.io/github/license/AstroAspie/AstroAspie?style=flat-square)](LICENSE)
+[![IFS (Contract)](https://img.shields.io/badge/Status-IFS%20Contract%20Principal%20Engineer-purple?style=flat-square)](https://ifs.ai)
+[![Consultant](https://img.shields.io/badge/Mode-Consultant-blue?style=flat-square)](https://tekheart-consulting.net)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20→-lightpink?style=flat-square)](https://astroaspie.github.io/MyPortfolio)
 
 </div>
 
