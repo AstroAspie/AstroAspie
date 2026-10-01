@@ -28,7 +28,7 @@
 
 ## 📬 Contact
 
-[![Email](https://img.shields.io/badge/Email-alex.tekheartproductions%40gmail.com-orange?style=flat-square&logo=gmail)](mailto:alex@tekheart-consulting.net)
+[![Email](https://img.shields.io/badge/Email-alex.@tekheart-consulting.net-orange?style=flat-square&logo=gmail)](mailto:alex@tekheart-consulting.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--astro--smith-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alex-astro-smith)
 
 
